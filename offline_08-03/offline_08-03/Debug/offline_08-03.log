@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+c:\users\oliver\source\repos\offline_08-03\offline_08-03\quelle.cpp(84): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  offline_08-03.vcxproj -> C:\Users\Oliver\source\repos\offline_08-03\Debug\offline_08-03.exe

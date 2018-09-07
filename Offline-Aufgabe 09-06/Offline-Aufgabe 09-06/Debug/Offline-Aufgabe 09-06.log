@@ -1,0 +1,7 @@
+﻿  Quelle.cpp
+c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(21): error C2440: "=": "const char" kann nicht in "char *" konvertiert werden
+  c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(21): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(29): error C2440: "=": "const char" kann nicht in "char *" konvertiert werden
+  c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(29): note: Die Konvertierung eines ganzzahligen Typs in einen Zeigertyp erfordert ein reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat
+c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(37): error C2440: "return": "char *[40]" kann nicht in "char *" konvertiert werden
+  c:\users\oliver\source\repos\offline-aufgabe 09-06\offline-aufgabe 09-06\quelle.cpp(37): note: Die Typen, auf die verwiesen wird, sind nicht verknüpft; die Konvertierung erfordert einen reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat.
